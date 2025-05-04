@@ -180,6 +180,7 @@ int main()
                 double trace = trace_matrix(a);
                 printf("%.2f\n", trace);
                 break;
+                
             }
             case 'q':
             {
